@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="huat_SHP:war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/huat_SHP_war</output-path>
+    <root id="archive" name="huat_SHP_war.war">
+      <element id="artifact" artifact-name="huat_SHP:war exploded" />
+    </root>
+  </artifact>
+</component>
