@@ -1,2 +1,2 @@
 # Huat_SHP
-暂无
+校园二手交易平台（SSM+JSP+MySQL）
